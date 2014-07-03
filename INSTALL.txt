@@ -1,0 +1,13 @@
+
+Requirements:
+------------
+
+- GCC or Visual C++
+- SCons
+- Qt4 Libraries and Development files
+
+Compilation:
+-----------
+
+- cd to the Cellule directory and execute scons
+
