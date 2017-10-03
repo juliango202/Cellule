@@ -14,4 +14,4 @@ Then the executable Cellule program is a GUI to create, modify, and visualize ce
 
 Author: bEngo  foolscreen@gmail.com
 
-Contributor: julianjon
+Contributor: juliango
