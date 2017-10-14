@@ -19,7 +19,8 @@ The executable Cellule program is a GUI to create, modify, and visualize cellula
 [![Sample 5](https://juliango202.github.io/img/cellule/snap5_th.png)](https://juliango202.github.io/img/cellule/snap5.png)
 [![Sample 6](https://juliango202.github.io/img/cellule/snap6_th.png)](https://juliango202.github.io/img/cellule/snap6.png)
 [![Sample 7](https://juliango202.github.io/img/cellule/snap7_th.png)](https://juliango202.github.io/img/cellule/snap7.png)
-
+[![Sample 8](https://juliango202.github.io/img/cellule/snap8_th.png)](https://juliango202.github.io/img/cellule/snap8.png)
+[![Sample 9](https://juliango202.github.io/img/cellule/snap9_th.png)](https://juliango202.github.io/img/cellule/snap9.png)
 
 ## Credit
 Author: bEngo  foolscreen@gmail.com
