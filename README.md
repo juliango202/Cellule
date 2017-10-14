@@ -12,8 +12,8 @@ Manipulating thousands of cells is ok.
 
 Then the executable Cellule program is a GUI to create, modify, and visualize cellular patterns. 
 
-![Sample 1](https://juliango202.github.io/img/cellule/snap1.png | width=80)
-![Sample 1](https://juliango202.github.io/img/cellule/snap2.png | width=80)
+[Sample 1](https://juliango202.github.io/img/cellule/snap1.png | width=80)
+[Sample 2](https://juliango202.github.io/img/cellule/snap2.png | width=80)
 
 Author: bEngo  foolscreen@gmail.com
 
