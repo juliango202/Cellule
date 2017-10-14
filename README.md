@@ -1,6 +1,6 @@
 # Cellule
 
-**NOTE: this project has not been updated since 2008. See [https://en.wikipedia.org/wiki/Grasshopper_3D](Grasshopper 3D) for a more usable implementation of this idea.**
+**NOTE: this project has not been updated since 2008. See [Grasshopper 3D](https://en.wikipedia.org/wiki/Grasshopper_3D) for a more usable implementation of this idea.**
 
 Cellule is a fast 2D cellular pattern ( Delauney-Voronoi ) engine written in C++ and cross-platform. 
 
