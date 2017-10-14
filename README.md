@@ -1,6 +1,6 @@
 # Cellule
 
-NOTE: this project has not been updated since 2008. See http://www.grasshopper3d.com/ for a more usable implementation of this idea.
+**NOTE: this project has not been updated since 2008. See [https://en.wikipedia.org/wiki/Grasshopper_3D](Grasshopper 3D) for a more usable implementation of this idea.**
 
 Cellule is a fast 2D cellular pattern ( Delauney-Voronoi ) engine written in C++ and cross-platform. 
 
@@ -27,7 +27,7 @@ The executable Cellule program is a GUI to create, modify, and visualize cellula
 
 ### Contour smoothing
 Each pixel of a cell is textured according to the shortest distance to a voronoi edge.
-To be able to support arbitrary smoothness of cell contours, we build a bspline along the Voronoi cell before computing the distance.
+To be able to support arbitrary smoothness of cell contours, we build a bspline along the Voronoi edge before computing the distance.
 
 ![BSpline 1](https://juliango202.github.io/img/cellule/bspline01.png)
 ![BSpline 2](https://juliango202.github.io/img/cellule/bspline02.png)
@@ -37,6 +37,6 @@ To be able to support arbitrary smoothness of cell contours, we build a bspline 
 ## Credit
 Author: bEngo  foolscreen@gmail.com
 
-Contributor: juliango
+Key contributor: juliango
 
 Licence: GNU GENERAL PUBLIC LICENSE Version 2
